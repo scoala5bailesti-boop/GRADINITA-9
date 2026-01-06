@@ -1,0 +1,7 @@
+{
+  "name": "GRADINITA NR. 9 „AMZA PELLEA” BĂILEȘTI",
+  "description": "O platformă completă pentru gestionarea elevilor, prezenței, plăților și logisticii alimentare într-o grădiniță cu program prelungit.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
